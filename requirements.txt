@@ -1,4 +1,4 @@
 Flask==2.2.3
 Flask-Cors==4.0.0
-ctransformers==0.0.11
+ctransformers==0.2.27
 re==2.2.1
