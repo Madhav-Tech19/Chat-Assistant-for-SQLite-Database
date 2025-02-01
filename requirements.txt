@@ -2,5 +2,5 @@ flask==2.2.2
 flask-cors==4.0.0
 huggingface_hub==0.14.1
 llama-cpp-python==0.1.78
-ctransformers==0.0.15
+ctransformers==0.2.0
 numpy==1.23.4
