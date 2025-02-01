@@ -1,5 +1,3 @@
-# chatbot.py
-
 import sqlite3
 import re
 from huggingface_hub import hf_hub_download
